@@ -30,6 +30,8 @@ https://docs.aws.amazon.com/
 
 just search terraform *whatever you want to learn* aws documentation.
 
+*NOTE THAT YOUR SECRET KEY AND ACCESS KEY SHOULD BE THE KEYS FOR YOUR AWS ACCOUNT, THAT IS WHY MINE IS BLANK IN THIS TEXT*
+
 Thanks for stopping by!
 
 
