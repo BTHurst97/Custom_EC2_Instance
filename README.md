@@ -1,7 +1,7 @@
 # Custom_EC2_Instance
 In the "Custom_EC2_and_VPC.tf" file you will find the steps that i followed too create a EC2 Instance with a custom VPC and Subnet that has ssh access with putty so we can make changes to it as well as setup a automatic web server to run on it so we can handle web traffic!
 
-The steps are as follows
+The steps i followed are as follows
 
 #1. Create a VPC
 
