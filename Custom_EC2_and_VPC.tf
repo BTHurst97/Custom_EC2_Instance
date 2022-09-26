@@ -1,4 +1,8 @@
-
+provider "aws" {
+    region  = "us-west-1" #this should be whatever region is closest to you
+    access_key = 
+    secret_key = 
+}
  #1. Creating the VPC
  resource "aws_vpc" "project_vpc" {
   cidr_block = "10.0.0.0/16"
